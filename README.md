@@ -6,4 +6,4 @@ LakeDevs is a freelance web development service website, owned by ds199966 and l
 
 Made with: Bootstrap, HTML/CSS, PHP, JS.
 
-The deployed website can be found at [lakedevs.com](https://www.lakedevs.com/)
+The deployed website can be found at [lakedevs.com](https://sebastianllerena.com/lakedevs-site/)
